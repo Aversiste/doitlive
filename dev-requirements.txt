@@ -10,7 +10,7 @@ flake8==3.6.0
 
 # Soft deps
 IPython<6; python_version < '3'
-IPython==6.5.0; python_version >= '3'
+IPython==7.1.1; python_version >= '3'
 
 # Install this package in development mode
 -e '.'
